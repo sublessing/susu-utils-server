@@ -1,0 +1,22 @@
+{
+  "name": "susu-utils-server",
+  "version": "1.0.0",
+  "description": "A Toolkit for Node Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sublessing",
+  "license": "MIT",
+  "bugs": {
+    "email": "15070021572@163.com"
+  },
+  "homepage": "https://github.com/sublessing/susu-utils-server#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sublessing/susu-utils-server.git"
+  },
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
