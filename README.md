@@ -1,6 +1,6 @@
 Introduction
 
-    susu-utils is a quick ToolKit.
+    susu-utils-server is a quick ToolKit.
 
 ToolKit Body
 
