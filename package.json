@@ -1,6 +1,6 @@
 {
   "name": "susu-utils-server",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A Toolkit for Node Server",
   "main": "index.js",
   "scripts": {
